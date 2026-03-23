@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/ts-memo-map/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-memo-map/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/memo-map)](https://www.npmjs.com/package/@philiprehberger/memo-map)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-memo-map)](LICENSE)
 
 Memoization with WeakMap support for object keys, LRU eviction, and TTL.
 
